@@ -69,3 +69,6 @@ The dataset can be used independently for research in visual computing and aquac
 - Automated quality inspection
 - Generalized zero-shot dataset creation pipelines
 
+## Dataset Availability
+
+Due to ongoing extensions of this work, the dataset is available from the corresponding author upon reasonable request.
