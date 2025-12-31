@@ -54,17 +54,18 @@ The workflow consists of four main stages:
 ---
 
 📦 Dataset
-Auto-generated polygon masks and bounding boxes
-Textual posture annotations
+- Auto-generated polygon masks and bounding boxes
+- Textual posture annotations
 Suitable for:
-Grading
-Classification
-Multimodal learning
-Shape-based analysis
+- Grading
+- Classification
+- Multimodal learning
+- Shape-based analysis
+
 The dataset can be used independently for research in visual computing and aquaculture automation.
 
 🔬 Applications
-Intelligent aquaculture grading
-Automated quality inspection
-Generalized zero-shot dataset creation pipelines
+- Intelligent aquaculture grading
+- Automated quality inspection
+- Generalized zero-shot dataset creation pipelines
 
